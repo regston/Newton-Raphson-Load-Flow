@@ -1,8 +1,7 @@
 function linedt = linedatas(num)
 % LINEDATAS
-% num : 节点数目
-% linedt： 线路参数0000000000000000000
-% ffffffffffffffffffffff
+% num : 陆脷碌茫脢媒脛驴
+% linedt拢潞 脧脽脗路虏脦脢媒
 %-------------------------------------------------------------------------------------------
 %              | From|  To   |   R            |   X       |     B/2  |  X'mer   |
 %              | Bus  | Bus  |  pu            |  pu      |     pu    | TAP (a) |
